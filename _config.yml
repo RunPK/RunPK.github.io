@@ -27,7 +27,7 @@ navigation:
 #  - name: Tags
 #    url: /tags
 #  - name: Theme
-#    url: https://github.com/fireflyoo/RunningKing
+#    url: https://github.com/RunPK/RunPK.github.io
 
 # Pagination
 paginate: 5
@@ -39,7 +39,7 @@ footer-links:
   email: fireflyoo@qq.com
   facebook:
   flickr:
-  github: fireflyoo/RunningKing
+  github: RunPK
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
