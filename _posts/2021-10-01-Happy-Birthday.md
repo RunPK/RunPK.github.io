@@ -14,7 +14,8 @@ tags:
     押金将作为红包在十月跑王群内发放
 
 **郑重说明** 本活动志在强身健体，培养运动好习惯，再者运动量力而行，不要盲目。
+
 ![截图][1]
 
 
-  [1]: https://raw.fastgit.org/fireflyoo/RunningKing/master/images/RunningKing-2021-10-07.png
+  [1]: {{ "/images/RunningKing-2021-10-07.png" | prepend: site.baseurl }}
