@@ -2,8 +2,7 @@
 layout: post
 title: 十月瓯江乐跑•欢度国庆
 tags:
-  - test
-  - tags
+  - 跑王
 ---
 
 # 十月瓯江乐跑•欢度国庆
