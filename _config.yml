@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: 瓯江乐跑团-跑王赛
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Born to run
 
 #
 # Flags below are optional
@@ -29,7 +29,7 @@ navigation:
   - name: Tags
     url: /tags
   - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+    url: https://github.com/fireflyoo/RunningKing
 
 # Pagination
 paginate: 5
